@@ -7,6 +7,7 @@ package com.itheima.principles.demo1;
  * @Description:
  */
 public class SougouInput {
+
 	private AbstractSkin skin;
 
 	public void setSkin(AbstractSkin skin) {
